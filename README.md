@@ -23,6 +23,7 @@ This tutorial demonstrates how to:
 - 🚀 [Full Tutorial (START HERE)](docs/tutorial.md) – Detailed step-by-step guide
 - [MLX Documentation](https://ml-explore.github.io/mlx/) - Official MLX docs
 - [Phi-4 Model Card](https://huggingface.co/microsoft/Phi-4-mini-instruct) - Model details
+- [Fine tuned model by Ian Philpot](https://huggingface.co/ianphil/phi4-mini-dolly-15k-mlx)
 
 ## Quick Start
 
