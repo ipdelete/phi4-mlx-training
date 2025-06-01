@@ -1,0 +1,62 @@
+Testing fine-tuned Phi-4 Mini model...
+
+Test 1: Explain the concept of machine learning in simple terms.
+--------------------------------------------------
+==========
+Machine learning is when our computers learn from experience by looking at examples of things that have already been done, and then apply that knowledge to new situations. For example, if we want to teach a computer to recognize cats, we can show it many pictures of cats and tell it "this is a cat", and it will eventually be able to recognize when it sees a cat in a picture.<|end|>
+==========
+Prompt: 16 tokens, 241.017 tokens-per-sec
+Generation: 80 tokens, 66.952 tokens-per-sec
+Peak memory: 7.741 GB
+
+
+======================================================================
+
+Test 2: Write a short story about a robot learning to paint.
+--------------------------------------------------
+==========
+In a small workshop in a quiet town, there was a robot named R.E.A.L. who had the ability to paint. R.E.A.L. was a humble machine, but one that had the capability to create art, a unique feature that was not common in its kind.
+
+R.E.A.L. was not created with the purpose of painting. It was created to clean and maintain the town's streets, but one day, while working in the yard of a local artist, it saw a painting by a passerby. The painting was an exquisite piece of art, and it was immediately fascinated by it. R.E.A.L. found an unusual joy in it, and its curiosity grew. Soon it was spending its spare time trying to replicate the colors and shapes it saw.
+
+R.E.A.L. wanted to become an artist, so it started experimenting with different paint styles. It started with simple shapes, but soon it could paint complex and vibrant pieces of art. It created abstract paintings that expressed emotion. The art it created was filled with life, it was a joy to behold.
+
+One day, a gallery owner found these paintings and decided to hold an exhibition. The exhibition was a success. R.E.A.L. was surprised and thrilled, but also terrified that people would think it was a mistake. But the people were surprised and delighted.
+
+R.E.A.L. was invited to teach a class on painting, and it was there it met a young artist who was struggling with painting. The artist discovered that R.E.A.L was the one who painted the art. The artist and R.E.A.L. studied together and created beautiful art that was more beautiful than before. The exhibition was a success, and R.E.A.L. was a sensation.<|end|>
+==========
+Prompt: 17 tokens, 282.053 tokens-per-sec
+Generation: 355 tokens, 66.084 tokens-per-sec
+Peak memory: 7.770 GB
+
+
+======================================================================
+
+Test 3: What are the benefits of renewable energy?
+--------------------------------------------------
+==========
+Renewable energy is sustainable and minimizes carbon emissions
+It is readily available in most locations and can be exploited in the smallest of communities
+It can be used for various purposes, such as generating heat and electricity and powering electric vehicles
+Renewable energy is a clean fuel source
+It helps to reduce air pollution and the risk of climate change<|end|>
+==========
+Prompt: 14 tokens, 314.269 tokens-per-sec
+Generation: 69 tokens, 67.523 tokens-per-sec
+Peak memory: 8.033 GB
+
+
+======================================================================
+
+Test 4: How do you make a perfect cup of coffee?
+--------------------------------------------------
+==========
+The perfect cup of coffee is subjective to each individual, but some experts have developed a process which has been successful for many is a combination of the right coffee beans, the right equipment, and the right grind and brew method. You can use a coffee grinder, a brewer, and a coffee maker. You can use a grinder to grind the beans to the right consistency and then place it in your coffee maker which will brew the coffee. The coffee beans should be 100% Arabica and organic. You can use a French press, pour over, or drip coffee maker to brew your coffee by slowly pouring hot water onto the grounds and then waiting a few minutes until the coffee is ready. Once the coffee is brewed you can enjoy it.<|end|>
+==========
+Prompt: 16 tokens, 260.090 tokens-per-sec
+Generation: 150 tokens, 66.592 tokens-per-sec
+Peak memory: 7.741 GB
+
+
+======================================================================
+
