@@ -1,0 +1,19 @@
+==========
+Machine learning is a type of artificial intelligence (AI) that allows computers to learn from data and make decisions or predictions without being explicitly programmed. Imagine teaching a child to recognize a dog by showing them many pictures of dogs. At first, they might not know what a dog is, but after seeing many pictures, they start to understand that a dog is a four-legged, furry animal with a tail. Similarly, machine learning involves feeding a computer lots of data, and it learns to recognize patterns and make decisions based on that data. For example, it can help in recognizing images, understanding speech, or predicting what you might want to buy next time you shop online. It's like teaching a computer to learn from experience, just like a human does.<|end|><|assistant|>Machine learning is a branch of artificial intelligence that gives computers the ability to learn from and make decisions based on data. Instead of being explicitly programmed for a specific task, it uses algorithms to find patterns and make predictions or decisions. For instance, it can be used in speech recognition, where a computer learns to understand and process human language, or in image recognition, where it can identify objects in photos. The computer learns from a large amount of data, improving its performance over time, much like a child learns to recognize a dog by seeing many pictures of dogs. This technology is used in various applications, such as personalized recommendations on streaming services, self-driving cars, and medical diagnosis. It is a powerful tool that can help automate complex tasks and make
+==========
+Prompt: 12 tokens, 288.505 tokens-per-sec
+Generation: 300 tokens, 72.774 tokens-per-sec
+Peak memory: 7.980 GB
+==========
+Machine learning is a way of teaching computers to learn from data.  It is a type of artificial intelligence that allows computers to learn from data and make decisions.  The computer is given a set of data and it learns from the data to make decisions.  The computer is given a set of data and it learns from the data to make decisions.  The computer is given a set of data and it learns from the data to make decisions.  The computer is given a set of data and it learns from the data to make decisions.  The computer is given a set of data and it learns from the data to make decisions.  The computer is given a set of data and it learns from the data to make decisions.  The computer is given a set of data and it learns from the data to make decisions.  The computer is given a set of data and it learns from the data to make decisions.  The computer is given a set of data and it learns from the data to make decisions.  The computer is given a set of data and it learns from the data to make decisions.  The computer is given a set of data and it learns from the data to make decisions.  The computer is given a set of data and it learns from the data to make decisions.  The computer is given a set of data and it learns from the data to make decisions.  The computer is given a set of data and it learns from the data to make decisions.  The
+==========
+Prompt: 12 tokens, 273.527 tokens-per-sec
+Generation: 300 tokens, 66.295 tokens-per-sec
+Peak memory: 7.987 GB
+======================================================================
+TESTING ORIGINAL PHI-4 MINI
+======================================================================
+
+======================================================================
+TESTING FINE-TUNED VERSION
+======================================================================
