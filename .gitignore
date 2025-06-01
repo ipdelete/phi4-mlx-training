@@ -12,3 +12,6 @@ wheels/
 # MLX adapter files
 adapters/
 *.safetensors
+
+# Fused models
+fused-model/
