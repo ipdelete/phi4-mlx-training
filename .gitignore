@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# MLX adapter files
+adapters/
+*.safetensors
